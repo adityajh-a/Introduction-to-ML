@@ -1,5 +1,3 @@
-# Introduction-to-Machine-Learning
-
 # 📚 NPTEL Notes: Introduction to Machine Learning  
 **Instructor:** Prof. Balaraman Ravindran  
 **Institution:** IIT Madras  
