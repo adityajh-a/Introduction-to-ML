@@ -2,7 +2,7 @@
 **Instructor:** Prof. Balaraman Ravindran  
 **Institution:** IIT Madras  
 
-This repository contains structured notes for the NPTEL course **"Introduction to Machine Learning"** offered by **Prof. Balaraman Ravindran** from **IIT Madras**.
+This repository contains structured notes (slides) for the NPTEL course **"Introduction to Machine Learning"** offered by **Prof. Balaraman Ravindran** from **IIT Madras**.
 
 ---
 
